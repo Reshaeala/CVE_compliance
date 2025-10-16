@@ -51,3 +51,4 @@ The dev server proxies `/api` → `http://localhost:8000`.
 - **35-day proof**: your evaluation runs list + reports serve as evidence.
 - **Device Owner**: set per finding in the UI (drawer panel).
 # CVE_compliance
+# cve_comp
