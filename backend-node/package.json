@@ -1,0 +1,23 @@
+{
+  "name": "opencve-compliance-backend",
+  "version": "0.2.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "@fastify/cors": "^8.4.0",
+    "@fastify/multipart": "^8.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "fast-csv": "^5.0.1",
+    "fastify": "^4.28.1",
+    "node-fetch": "^3.3.2",
+    "pdfkit": "^0.13.0",
+    "sql.js": "^1.13.0",
+    "undici": "^6.19.8"
+  }
+}
